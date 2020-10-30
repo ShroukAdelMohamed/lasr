@@ -26,5 +26,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## Here is the image for lab2
-
+![lab2 image]
 (https://unsplash.com/photos/WvDgc8cghS8)
